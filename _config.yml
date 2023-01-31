@@ -1,0 +1,22 @@
+title: Marco Abbadini | PhD Student
+baseurl: "/"
+url: "https://marcoabbadini.github.io" 
+github_username:  marcoabbadini
+
+# Build settings
+theme: jekyll-theme-console
+
+header_pages:
+  - index.md
+  - about.md
+  - teaching.md 
+  - publications.md
+  - posts.md
+  - contact.md
+
+style: dark # dark (default), light or hacker
+listen_for_clients_preferred_style: true # false (default) or true
+
+footer: 'academic page at <a href="https://cs.unibg.it/abbadini">Unibg</a>'
+
+#google_analytics: UA-NNNNNNNN-N
