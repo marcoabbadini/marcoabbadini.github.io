@@ -10,4 +10,4 @@ permalink: /contacts/
 - Github: [marcoabbadini](https://github.com/marcoabbadini)
 - Linkedin: [Marco Abbadini](https://www.linkedin.com/in/marco-abbadini-998524245)
 - Twitter: [marcoabbadini](https://twitter.com/marcoabbadini)
-- Discord: Abbax#5195
+- Discord: `Abbax#5195` (informal)
