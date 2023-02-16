@@ -14,6 +14,7 @@ I am a member of the Security Laboratory of Università degli Studi di Bergamo: 
 - Github: [marcoabbadini](https://github.com/marcoabbadini)
 - Linkedin: [Marco Abbadini](https://www.linkedin.com/in/marco-abbadini-998524245)
 - Twitter: [marcoabbadini](https://twitter.com/marcoabbadini)
+- Skype: live:.cid.2fc1455443dfa9c3
 
 # Education
 
