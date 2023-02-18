@@ -31,7 +31,7 @@ Best new graduate of the year 2022, Università degli Studi di Bergamo, Departme
 
 # Work Experience
 
-- **Teaching Assistant** for Bachelor's and Master's courses at Univeristà degli Studi di Bergamo. Main topic: *programming*.
+- **Teaching Assistant** for Bachelor's and Master's courses at Univeristà degli Studi di Bergamo. Main topics: *Databases, Operating Systems, Programming*.
 
 # Skills
 
