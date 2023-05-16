@@ -10,3 +10,7 @@ permalink: /teaching/
 - Calcolatori Elettronici, Computer Engineering, a.y. 2022/23
 - Informatica (Programmazione), Management Engineering, a.y. 2022/23
 - Informatica (Programmazione), Management Engineering, a.y. 2021/22
+
+# Seminars
+
+- What are and how does container work, Computer Engineering, a.y. 2022/23
