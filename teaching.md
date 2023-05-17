@@ -13,4 +13,4 @@ permalink: /teaching/
 
 # Seminars
 
-- What are and how do containers work, Computer Engineering, a.y. 2022/23
+- What are containers and how do they work, Computer Engineering, a.y. 2022/23
