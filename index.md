@@ -9,4 +9,3 @@ I am a PhD Student in Engineering and Applied Sciences at Università degli Stud
 
 This is a little presentation website of myself and a place to share ideas, posts or articles that I find interesting.
 
----
