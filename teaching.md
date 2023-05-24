@@ -13,5 +13,5 @@ permalink: /teaching/
 
 # Seminars
 
-- What are containers and how do they work, Computer Engineering, a.y. 2022/23
-- Recursive and iterative backtracking. An introduction to algorithms for combinatorial problems, a.y. 2022/23
+- *What are containers and how do they work*, Computer Engineering, a.y. 2022/23
+- *Recursive and iterative backtracking. An introduction to algorithms for combinatorial problems*, a.y. 2022/23
