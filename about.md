@@ -7,6 +7,10 @@ I am a PhD Student in Computer Science and Engineering at Università degli Stud
 
 I am a member of the Security Laboratory of Università degli Studi di Bergamo: [Unibg Seclab](https://seclab.unibg.it)
 
+European Project participation:
+- [MOSAICrOWN](https://mosaicrown.eu/)
+- [GLACIATION](https://glaciation-project.eu/)
+
 # Contacts
 
 - Email: <span class="baddirection">moc [tod] liamg [ta] 1inidabba.ocram</span> (beware when copying it, note the '**1**')
