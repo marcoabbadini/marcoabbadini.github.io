@@ -4,7 +4,7 @@ title: /publications
 permalink: /publications/
 ---
 
-**ORCID**: 0000-0001-7115-1867
+**ORCID**: [0000-0001-7115-1867](https://orcid.org/0000-0001-7115-1867)
 [**Google Scholar**](https://scholar.google.com/citations?user=8KH-igMAAAAJ&hl)
 
 
