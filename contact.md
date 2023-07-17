@@ -11,4 +11,4 @@ permalink: /contacts/
 - Linkedin: [Marco Abbadini](https://www.linkedin.com/in/marco-abbadini-998524245)
 - Twitter: [marcoabbadini](https://twitter.com/marcoabbadini)
 - Skype: live:.cid.2fc1455443dfa9c3
-- Discord: `Abbax#5195` (informal)
+- Discord: `abbax_` (informal)
