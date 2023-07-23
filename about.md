@@ -23,7 +23,7 @@ European Project participation:
 # Education
 
 - **PhD program in Engineering and Applied Sciences**, *Computer Science and Engineering, Computer Security*, Università degli Studi di Bergamo (2021 - ongoing)
-- **IRDTA DeepLearn Summer School 2022**, *Deep Learning Summer School*, IRDTA Brussels/London, Universitat Rovira i Virgili, ULPGC Universidad de Las Palmas de Gran Canaria (july 2022)
+- **IRDTA DeepLearn Summer School 2022**, *Deep Learning Summer School*, IRDTA Brussels/London, Universitat Rovira i Virgili, ULPGC Universidad de Las Palmas de Gran Canaria (July 2022)
 - **Master's Degree**, *Computer Science and Engineering*, 110L/110 (GPA: 4.0/4.0 summa cum laude), Università degli Studi di Bergamo (2019 - 2021)
 - **Erasmus Exchange Student**, *Computer Science*, University of Stuttgart, (Feb 2020 - Mar 2020)
 - **Bachelor's Degree**, *Computer Science and Engineerig*, 110L/110 (GPA: 4.0/4.0 summa cum laude), Università degli Studi di Bergamo, (2016 - 2019)
