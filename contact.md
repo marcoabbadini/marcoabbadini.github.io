@@ -12,4 +12,3 @@ permalink: /contacts/
 - Twitter: [marcoabbadini](https://twitter.com/marcoabbadini)
 - Mastodon: [@marcoabbadini@infosec.exchange](https://infosec.exchange/@marcoabbadini)
 - Skype: live:.cid.2fc1455443dfa9c3
-- Discord: `abbax_` (informal)
