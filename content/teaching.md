@@ -1,8 +1,6 @@
----
-layout: page
-title: /teaching
-permalink: /teaching/
----
++++
+title = "Teaching"
++++
 # Teaching courses
 
 - Databases I, Computer Engineering, a.y. 2022/23

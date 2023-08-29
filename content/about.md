@@ -1,11 +1,17 @@
----
-layout: page
-title: /about
-permalink: /about/
----
++++
+title = "About"
++++
+<style>
+span.baddirection{
+unicode-bidi: bidi-override;
+direction: rtl;
+}
+</style>
 I am a PhD Student in Computer Science and Engineering at Università degli Studi di Bergamo, Italy. My research focuses on Computer Security & Privacy and Data Protection in mobile-cloud-edge computing. I am also interested in Operating Systems internals and security aspects, algorithms, programming and CTF competitions.
 
 I am a member of the Security Laboratory of Università degli Studi di Bergamo: [Unibg Seclab](https://seclab.unibg.it)
+
+You can see my academic page at Università degli Studi di Bergamo at [/UNIBG](https://cs.unibg.it/abbadini)
 
 European Project participation:
 - [MOSAICrOWN](https://mosaicrown.eu/)
@@ -13,7 +19,7 @@ European Project participation:
 
 # Contacts
 
-- Email: <span class="baddirection">moc [tod] liamg [ta] 1inidabba.ocram</span> (beware when copying it, note the '**1**')
+- Email: <span class="baddirection">moc [tod] liamg [ta] 1inidabba.ocram</span> *(beware when copying it, note the '**1**')*
 - Website: [personal](https://marcoabbadini.github.io), [academic](https://cs.unibg.it/abbadini)
 - Github: [marcoabbadini](https://github.com/marcoabbadini)
 - Linkedin: [Marco Abbadini](https://www.linkedin.com/in/marco-abbadini-998524245)

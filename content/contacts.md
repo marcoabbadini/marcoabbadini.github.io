@@ -1,11 +1,15 @@
----
-layout: page
-title: /contacts
-permalink: /contacts/
----
++++
+title = "Contacts"
++++
+<style>
+span.baddirection{
+unicode-bidi: bidi-override;
+direction: rtl;
+}
+</style>
 # Contacts
 
-- Email: <span class="baddirection">moc [tod] liamg [ta] 1inidabba.ocram</span> (beware when copying it, note the '**1**')
+- Email: <span class="baddirection">moc [tod] liamg [ta] 1inidabba.ocram</span> *(beware when copying it, note the '**1**')*
 - Website: [personal](https://marcoabbadini.github.io), [academic](https://cs.unibg.it/abbadini)
 - Github: [marcoabbadini](https://github.com/marcoabbadini)
 - Linkedin: [Marco Abbadini](https://www.linkedin.com/in/marco-abbadini-998524245)
