@@ -9,5 +9,3 @@ This is a little presentation website of myself and a place to share ideas, post
 For any info feel free to contact me.
 
 You can see my academic page at Università degli Studi di Bergamo at [/UNIBG](https://cs.unibg.it/abbadini)
-
-test test test
