@@ -23,7 +23,7 @@ European Project participation:
 - Website: [personal](https://marcoabbadini.github.io), [academic](https://cs.unibg.it/abbadini)
 - Github: [marcoabbadini](https://github.com/marcoabbadini)
 - Linkedin: [Marco Abbadini](https://www.linkedin.com/in/marco-abbadini-998524245)
-- Twitter: [marcoabbadini](https://twitter.com/marcoabbadini)
+- X (Twitter): [marcoabbadini](https://twitter.com/marcoabbadini)
 - Mastodon: [@marcoabbadini@infosec.exchange](https://infosec.exchange/@marcoabbadini)
 - Skype: live:.cid.2fc1455443dfa9c3
 
@@ -44,15 +44,15 @@ Best new graduate of the year 2022, Università degli Studi di Bergamo, Departme
 # Work Experience
 
 - **Teaching Assistant** for Bachelor's and Master's courses at Univeristà degli Studi di Bergamo
-	- Databases
+	- Databases I and II
 	- Operating Systems
 	- Computer Organization and Design
 	- Programming
 
 # Skills
 
-- Programming: C and C++, Python, Java, Bash
-- Tools and technologies: Git, Svn, Apache Spark, Docker, LaTeX, Linux, Make, Bazel, Differential Privacy
+- Programming: C and C++, Python, Java, Bash, Rust
+- Tools and technologies: Git, Svn, Apache Spark, Docker, LaTeX, Linux, Make, Bazel, Kubernetes, Open Policy Agent, Differential Privacy
 - Languages: Italian (Native speaker), English (Professional proficiency), German (Basic)
 
 # CV
