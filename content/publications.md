@@ -8,6 +8,7 @@ title = "Publications"
 
 # List of academic publications 
 
+* [Lightweight Cloud Application Sandboxing](https://cs.unibg.it/seclab-papers/2023/CLOUDCOM/dmng.pdf). *Conference Paper*, in Proc. of the 14th IEEE International Conference on Cloud Computing Technology and Science (IEEE CLOUDCOM 2023), Naples, Italy, December 4-6, 2023, [[BibTex]](https://cs.unibg.it/seclab-papers/2023/CLOUDCOM/dmng.bib)
 * [NatiSand: Native Code Sandboxing for JavaScript Runtimes](https://cs.unibg.it/seclab-papers/2023/RAID/natisand.pdf), *Conference Paper*, in Proc. of the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Hong Kong, China, October 16-18, 2023, [[BibTex]](https://cs.unibg.it/seclab-papers/2023/RAID/natisand.bib)
 * [Cage4Deno: A Fine-Grained Sandbox for Deno Subprocesses](https://cs.unibg.it/seclab-papers/2023/ASIACCS/paper/cage4deno.pdf), *Conference Paper*, in Proc. of the 18th ACM ASIA Conference on Computer and Communications Security (ASIACCS), Melbourne, Australia, July 10-14, 2023, [[BibTex]](https://cs.unibg.it/seclab-papers/2023/ASIACCS/paper/cage4deno.bib)
 * [Leveraging eBPF to enhance sandboxing of WebAssembly runtimes](https://cs.unibg.it/seclab-papers/2023/ASIACCS/poster/enhance-wasm-sandbox.pdf), *Poster*, in Proc. of the 18th ACM ASIA Conference on Computer and Communications Security (ASIACCS), Melbourne, Australia, July 10-14, 2023, [[BibTex]](https://cs.unibg.it/seclab-papers/2023/ASIACCS/poster/enhance-wasm-sandbox.bib)
