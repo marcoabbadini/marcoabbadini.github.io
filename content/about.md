@@ -29,7 +29,7 @@ European Project participation:
 
 # Education
 
-- **PhD program in Engineering and Applied Sciences**, *Computer Science and Engineering, Computer Security*, Università degli Studi di Bergamo (2021 - ongoing)
+- **PhD program in Engineering and Applied Sciences**, *Computer Science and Engineering, Computer Security*, Università degli Studi di Bergamo, (2021 - ongoing)
 - **NECS - PhD Winter School 2024**, *Computer Security and Privacy Winter School*, (Jan 2024)
 - **IRDTA DeepLearn Summer School 2022**, *Deep Learning Summer School*, IRDTA Brussels/London, Universitat Rovira i Virgili, ULPGC Universidad de Las Palmas de Gran Canaria, (Jul 2022)
 - **Master's Degree**, *Computer Science and Engineering*, 110L/110 (GPA: 4.0/4.0 summa cum laude), Università degli Studi di Bergamo, (2019 - 2021)
