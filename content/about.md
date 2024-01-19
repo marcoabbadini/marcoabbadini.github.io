@@ -7,6 +7,9 @@ unicode-bidi: bidi-override;
 direction: rtl;
 }
 </style>
+
+# About
+
 I am a PhD Student in Computer Science and Engineering at Università degli Studi di Bergamo, Italy. My research focuses on Computer Security & Privacy and Data Protection in mobile-cloud-edge computing. I am also interested in Operating Systems internals and security aspects, algorithms, programming and CTF competitions.
 
 I am a member of the Security Laboratory of Università degli Studi di Bergamo: [Unibg Seclab](https://seclab.unibg.it)
