@@ -2,11 +2,16 @@
 title = "Publications"
 +++
 
-**ORCID**: [0000-0001-7115-1867](https://orcid.org/0000-0001-7115-1867)
-[**Google Scholar**](https://scholar.google.com/citations?user=8KH-igMAAAAJ&hl)
+# Research and Publications
 
+* **ORCID**: [0000-0001-7115-1867](https://orcid.org/0000-0001-7115-1867)
+* [**Google Scholar**](https://scholar.google.com/citations?user=8KH-igMAAAAJ&hl)
 
-# List of academic publications 
+---
+
+* [ICC 2024](https://l.feathr.co/ICC-2024/Marco-Abbadini)
+
+# List of publications 
 
 * [Supporting Data Owner Control in IPFS Networks](https://cs.unibg.it/seclab-papers/2024/ICC/ipfs.pdf), *Conference Paper*, in Proc. of the IEEE International Conference on Communications (IEEE ICC 2024), Denver, Colorado, June 9-13, 2024, [[BibTex]](https://cs.unibg.it/seclab-papers/2024/ICC/ipfs.bib)
 * [Lightweight Cloud Application Sandboxing](https://cs.unibg.it/seclab-papers/2023/CLOUDCOM/dmng.pdf). *Conference Paper*, in Proc. of the 14th IEEE International Conference on Cloud Computing Technology and Science (IEEE CLOUDCOM 2023), Naples, Italy, December 4-6, 2023, [[BibTex]](https://cs.unibg.it/seclab-papers/2023/CLOUDCOM/dmng.bib)
