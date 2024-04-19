@@ -17,3 +17,7 @@ title = "Teaching"
 
 - *What are containers and how do they work*, Computer Engineering, a.y. 2022/23
 - *Recursive and iterative backtracking. An introduction to algorithms for combinatorial problems*, Computer Engineering, a.y. 2022/23
+
+<hr>
+
+For more info, you can see my [/UNIBG](https://cs.unibg.it/abbadini/) page
