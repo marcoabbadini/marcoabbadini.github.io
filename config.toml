@@ -57,3 +57,6 @@ en = { name = "/contacts", url = "/contacts" }
 
 [[extra.header_nav]]
 en = {name = "/UNIBG", url = "https://cs.unibg.it/abbadini"}
+
+[[extra.header_nav]]
+en = {name = "/IMDEA", url = "https://software.imdea.org/people/marco.abbadini/"}
