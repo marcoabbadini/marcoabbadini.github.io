@@ -10,13 +10,13 @@ direction: rtl;
 
 # About
 
-I am a PhD Student in Computer Science and Engineering at Università degli Studi di Bergamo, Italy, under the supervision of prof. [Stefano Paraboschi](https://cs.unibg.it/parabosc/). My research focuses on Computer Security & Privacy and Data Protection in mobile-cloud-edge computing. I am also interested in Operating Systems internals and security aspects, algorithms, programming and CTF competitions.
+I am a PhD Student in Computer Science and Engineering at Università degli Studi di Bergamo, Italy, under the supervision of [prof. Stefano Paraboschi](https://cs.unibg.it/parabosc/). My research focuses on Computer Security & Privacy and Data Protection in mobile-cloud-edge computing. I am also interested in Operating Systems internals and security aspects, algorithms, programming and CTF competitions.
 
 I am a member of the Security Laboratory of Università degli Studi di Bergamo: [Unibg Seclab](https://seclab.unibg.it)
 
 Since October 2024 I am a Visiting PhD Student at [IMDEA Software Institute](https://software.imdea.org/) (Madrid) under the supervision of [prof. Marco Guarnieri](https://mguarnieri.github.io/).
 
-You can see my academic page at Università degli Studi di Bergamo at [/UNIBG](https://cs.unibg.it/abbadini) and my page at IMDEA at [/IMDEA](https://software.imdea.org/people/marco.abbadini/).
+You can see my academic page at Università degli Studi di Bergamo here: [/UNIBG](https://cs.unibg.it/abbadini) and my page at IMDEA here: [/IMDEA](https://software.imdea.org/people/marco.abbadini/).
 
 European Project participation:
 - [MOSAICrOWN](https://mosaicrown.eu/)
