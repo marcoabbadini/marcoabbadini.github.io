@@ -16,7 +16,7 @@ I am a member of the Security Laboratory of Università degli Studi di Bergamo: 
 
 From October 2024 to March 2025 I've been a Visiting PhD Student at [IMDEA Software Institute](https://software.imdea.org/) (Madrid) under the supervision of [prof. Marco Guarnieri](https://mguarnieri.github.io/).
 
-You can see my academic page at Università degli Studi di Bergamo here: [/UNIBG](https://cs.unibg.it/abbadini) and my page at IMDEA here: [/IMDEA](https://software.imdea.org/people/marco.abbadini/).
+See my academic page at Università degli Studi di Bergamo here: [/UNIBG](https://cs.unibg.it/abbadini) and my page at IMDEA here: [/IMDEA](https://software.imdea.org/people/marco.abbadini/).
 
 European Project participation:
 - [MOSAICrOWN](https://mosaicrown.eu/)
