@@ -3,6 +3,9 @@ title = "Teaching"
 +++
 # Teaching courses
 
+- **Data bases in medicine**. Health Technologies Engineering, a.y. 2024/25
+- **Operating Systems**, Computer Engineering, a.y. 2024/25
+- **Data bases I**, Computer Engineering, a.y. 2024/25
 - **Data bases I**, Computer Engineering, a.y. 2023/24
 - **Operating Systems**, Computer Engineering, a.y. 2023/24
 - **Calcolatori Elettronici**, Computer Engineering, a.y. 2023/24
