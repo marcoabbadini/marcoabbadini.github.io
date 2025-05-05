@@ -14,7 +14,7 @@ I am a PhD Student in Computer Science and Engineering at Università degli Stud
 
 I am a member of the Security Laboratory of Università degli Studi di Bergamo: [Unibg Seclab](https://seclab.unibg.it)
 
-Since October 2024 I am a Visiting PhD Student at [IMDEA Software Institute](https://software.imdea.org/) (Madrid) under the supervision of [prof. Marco Guarnieri](https://mguarnieri.github.io/).
+From October 2024 to March 2025 I've been a Visiting PhD Student at [IMDEA Software Institute](https://software.imdea.org/) (Madrid) under the supervision of [prof. Marco Guarnieri](https://mguarnieri.github.io/).
 
 You can see my academic page at Università degli Studi di Bergamo here: [/UNIBG](https://cs.unibg.it/abbadini) and my page at IMDEA here: [/IMDEA](https://software.imdea.org/people/marco.abbadini/).
 
