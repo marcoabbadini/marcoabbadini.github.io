@@ -24,18 +24,18 @@ European Project participation:
 
 # Contacts
 
-- **Email**: <span class="baddirection">moc [tod] liamg [ta] 1inidabba.ocram</span> *(beware when copying it, note the '**1**')*
+- **Email** (preferred): <span class="baddirection">moc [tod] liamg [ta] 1inidabba.ocram</span> *(beware when copying it, note the '**1**')*
 - **Website**: [personal](https://marcoabbadini.github.io), [academic](https://cs.unibg.it/abbadini)
 - **Github**: [marcoabbadini](https://github.com/marcoabbadini)
 - **Linkedin**: [Marco Abbadini](https://www.linkedin.com/in/marco-abbadini-998524245)
 - **X (Twitter)**: [marcoabbadini](https://twitter.com/marcoabbadini)
 - **Mastodon**: [@marcoabbadini@infosec.exchange](https://infosec.exchange/@marcoabbadini)
-- **Skype**: live:.cid.2fc1455443dfa9c3
+- **Skype** : live:.cid.2fc1455443dfa9c3 <span style="color:red;">[DEPRECATED]</span>
 
 # Education
 
-- **Visiting PhD Student**, *Computer Security, Micro-architectural security*, IMDEA Software Institute, Madrid, (Oct 2024 - ongoing)
-- **PhD program in Engineering and Applied Sciences**, *Computer Science and Engineering, Computer Security*, Università degli Studi di Bergamo, Italy, (2021 - ongoing)
+- **Visiting PhD Student**, *Computer Security, Micro-architectural security*, IMDEA Software Institute, Madrid, (Oct 2024 - Mar 2025)
+- **PhD in Engineering and Applied Sciences**, *Computer Science and Engineering, Computer Security*, Università degli Studi di Bergamo, Italy, (2021 - 2025)
 - **NECS - PhD Winter School 2024**, *Computer Security and Privacy Winter School*, (Jan 2024)
 - **IRDTA DeepLearn Summer School 2022**, *Deep Learning Summer School*, IRDTA Brussels/London, Universitat Rovira i Virgili, ULPGC Universidad de Las Palmas de Gran Canaria, (Jul 2022)
 - **Master's Degree**, *Computer Science and Engineering*, 110L/110 (GPA: 4.0/4.0 with honours), Università degli Studi di Bergamo, Italy, (2019 - 2021)
