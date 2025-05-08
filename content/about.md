@@ -51,7 +51,7 @@ Best new graduate of the year 2022, Università degli Studi di Bergamo, Departme
 # Work Experience
 
 - **Teaching Assistant** for Bachelor's and Master's courses at Univeristà degli Studi di Bergamo
-	- Databases I and II
+	- Data bases I and II, Data bases in medicine
 	- Operating Systems
 	- Computer Organization and Design
 	- Programming
