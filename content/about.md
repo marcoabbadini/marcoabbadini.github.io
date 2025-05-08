@@ -41,7 +41,7 @@ European Project participation:
 - **Master's Degree**, *Computer Science and Engineering*, 110L/110 (GPA: 4.0/4.0 with honours), Università degli Studi di Bergamo, Italy, (2019 - 2021)
 - **Erasmus Exchange Student**, *Computer Science*, University of Stuttgart, Germany, (Feb 2020 - Mar 2020)
 - **Bachelor's Degree**, *Computer Science and Engineerig*, 110L/110 (GPA: 4.0/4.0 with honours), Università degli Studi di Bergamo, Italy, (2016 - 2019)
-- **High School Diploma**, *Scientific High School*, 98/100, I.S.I.S.S. "Valle Seriana", Gazzaniga, Bergamo, italy
+- **High School Diploma**, *Scientific High School*, 98/100, I.S.I.S.S. "Valle Seriana", Gazzaniga, Bergamo, Italy
 
 # Awards
 
