@@ -34,14 +34,28 @@ European Project participation:
 
 # Education
 
-- **Visiting PhD Student**, *Computer Security, Micro-architectural security*, IMDEA Software Institute, Madrid, (Oct 2024 - Mar 2025)
-- **PhD in Engineering and Applied Sciences**, *Computer Science and Engineering, Computer Security*, Università degli Studi di Bergamo, Italy, (2021 - 2025)
-- **NECS - PhD Winter School 2024**, *Computer Security and Privacy Winter School*, (Jan 2024)
-- **IRDTA DeepLearn Summer School 2022**, *Deep Learning Summer School*, IRDTA Brussels/London, Universitat Rovira i Virgili, ULPGC Universidad de Las Palmas de Gran Canaria, (Jul 2022)
-- **Master's Degree**, *Computer Science and Engineering*, 110L/110 (GPA: 4.0/4.0 with honours), Università degli Studi di Bergamo, Italy, (2019 - 2021)
-- **Erasmus Exchange Student**, *Computer Science*, University of Stuttgart, Germany, (Feb 2020 - Mar 2020)
-- **Bachelor's Degree**, *Computer Science and Engineerig*, 110L/110 (GPA: 4.0/4.0 with honours), Università degli Studi di Bergamo, Italy, (2016 - 2019)
-- **High School Diploma**, *Scientific High School*, 98/100, I.S.I.S.S. "Valle Seriana", Gazzaniga, Bergamo, Italy
+- **Visiting PhD Student**, IMDEA Software Institute, Madrid, [Oct 2024 - Mar 2025]
+    - *Computer security, Micro-architectural and Hardware Security*
+    - Formal methods
+- **PhD in Engineering and Applied Sciences**, Università degli Studi di Bergamo, Italy, [2021 - 2025]
+    - Computer Science and Engineering, *Computer Security and Privacy*
+    - Thesis: "Sandboxing and Data Protection in Cloud Computing Environments"
+- **NECS - PhD Winter School 2024**, *Computer Security and Privacy Winter School*, [Jan 2024]
+- **IRDTA DeepLearn Summer School 2022**, IRDTA Brussels/London, Universitat Rovira i Virgili, ULPGC Universidad de Las Palmas de Gran Canaria, [Jul 2022]
+    - *Deep Learning Summer School*
+    - State-of-the-art and advances in Deep Learning
+- **Master's Degree**, Università degli Studi di Bergamo, Italy, [2019 - 2021]
+    - *Computer Science and Engineering*
+    - Thesis: "Parallel Application of Differential Privacy: Theoretical Analysis, Implementation, and Experimental Results"
+    - Grade: 110L/110 (GPA: 4.0/4.0 with honours)
+- **Erasmus Exchange Student**, University of Stuttgart, Germany, [Feb 2020 - Mar 2020]
+    - *Computer Science*
+- **Bachelor's Degree**, Università degli Studi di Bergamo, Italy, [2016 - 2019]
+    - *Computer Science and Engineering*
+    - Grade: 110L/110 (GPA: 4.0/4.0 with honours)
+- **High School Diploma**, I.S.I.S.S. "Valle Seriana", Gazzaniga, Bergamo, Italy
+    - *Scientific High School*
+    - Grade: 98/100   
 
 # Awards
 
@@ -49,7 +63,7 @@ European Project participation:
 Best new graduate of the year 2022, Università degli Studi di Bergamo, Department of Management, Information and Production Engineering, [link](https://www.luberg.it/eccellenze/proclamazione-neolaureati-dellanno-premio-agli-studi-2/)
 
 # Work Experience
-
+- **Postdoctoral Researcher**, *Computer Security*, Università degli Studi di Bergamo
 - **Teaching Assistant** for Bachelor's and Master's courses at Univeristà degli Studi di Bergamo
 	- Data bases I and II, Data bases in medicine
 	- Operating Systems
