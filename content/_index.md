@@ -1,6 +1,6 @@
 +++
 +++
-# Marco Abbadini, PhD Student
+# Marco Abbadini, PhD
 
 <img alt="Marco Abbadini photo" src="marco.abbadini-squared.jpg" style="margin-left:auto; margin-right:auto; display:block; width:300px;">
 
