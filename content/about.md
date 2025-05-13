@@ -30,6 +30,7 @@ European Project participation:
 - **Linkedin**: [Marco Abbadini](https://www.linkedin.com/in/marco-abbadini-998524245)
 - **X (Twitter)**: [marcoabbadini](https://twitter.com/marcoabbadini)
 - **Mastodon**: [@marcoabbadini@infosec.exchange](https://infosec.exchange/@marcoabbadini)
+- **Discord**: abbax_
 <!-- - **Skype** : live:.cid.2fc1455443dfa9c3 <span style="color:red;">[DEPRECATED]</span> -->
 
 # Education
