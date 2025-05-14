@@ -18,9 +18,6 @@ From October 2024 to March 2025 I've been a Visiting PhD Student at [IMDEA Softw
 
 See my academic page at Università degli Studi di Bergamo here: [/UNIBG](https://cs.unibg.it/abbadini) and my page at IMDEA here: [/IMDEA](https://software.imdea.org/people/marco.abbadini/).
 
-European Project participation:
-- [MOSAICrOWN](https://mosaicrown.eu/)
-- [GLACIATION](https://glaciation-project.eu/)
 
 # Contacts
 
@@ -58,11 +55,6 @@ European Project participation:
     - *Scientific High School*
     - Grade: 98/100   
 
-# Awards
-
-**Luberg New Graduate of the year, *Computer Science and Engineering***
-Best new graduate of the year 2022, Università degli Studi di Bergamo, Department of Management, Information and Production Engineering, [link](https://www.luberg.it/eccellenze/proclamazione-neolaureati-dellanno-premio-agli-studi-2/)
-
 # Work Experience
 - **Postdoctoral Researcher**, *Computer Security*, Università degli Studi di Bergamo
 - **Teaching Assistant** for Bachelor's and Master's courses at Univeristà degli Studi di Bergamo
@@ -70,6 +62,15 @@ Best new graduate of the year 2022, Università degli Studi di Bergamo, Departme
 	- Operating Systems
 	- Computer Organization and Design
 	- Programming
+
+# Projects
+European Project participation:
+- [GLACIATION](https://glaciation-project.eu/)
+- [MOSAICrOWN](https://mosaicrown.eu/)
+
+# Awards
+**Luberg New Graduate of the year, *Computer Science and Engineering***
+Best new graduate of the year 2022, Università degli Studi di Bergamo, Department of Management, Information and Production Engineering, [link](https://www.luberg.it/eccellenze/proclamazione-neolaureati-dellanno-premio-agli-studi-2/)
 
 # Skills
 
