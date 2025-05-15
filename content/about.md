@@ -10,7 +10,7 @@ direction: rtl;
 
 # About
 
-I am a Postdoctoral Researcher in Computer Science and Engineering at Università degli Studi di Bergamo, Italy, under the supervision of [prof. Stefano Paraboschi](https://cs.unibg.it/parabosc/). My research focuses on Computer Security & Privacy with a focus on Access Control,Data Protection, Cloud Security and Micro-architectural / Hardware Security. 
+I am a Postdoctoral Researcher in Computer Science and Engineering at Università degli Studi di Bergamo, Italy, under the supervision of [prof. Stefano Paraboschi](https://cs.unibg.it/parabosc/). My research focuses on Computer Security & Privacy with a focus on Access Control, Data Protection, Cloud Security and Micro-architectural / Hardware Security. 
 I am also interested in Operating Systems, Algorithms, Programming and CTF competitions.
 
 I am a member of the Security Laboratory of Università degli Studi di Bergamo: [Unibg Seclab](https://seclab.unibg.it)
