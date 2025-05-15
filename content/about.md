@@ -36,7 +36,7 @@ See my academic page at Università degli Studi di Bergamo here: [/UNIBG](https:
 - **Visiting PhD Student**, IMDEA Software Institute, Madrid, [Oct 2024 - Mar 2025]
     - *Computer security, Micro-architectural and Hardware Security*
     - Formal methods
-- **PhD in Engineering and Applied Sciences**, Università degli Studi di Bergamo, Italy, [2021 - 2025]
+- **PhD in Engineering and Applied Sciences**, Università degli Studi di Bergamo, Italy, [2021 - 2024]
     - Computer Science and Engineering, *Computer Security and Privacy*
     - Thesis: "Sandboxing and Data Protection in Cloud Computing Environments"
     - Grade: Excellent
