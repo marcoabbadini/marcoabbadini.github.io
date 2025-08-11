@@ -32,6 +32,7 @@ author = "Marco Abbadini"
 image = ""
 list_pages = false
 twitter_card = false
+favicon = "favicon.png"
 
 footer_nav = [
   { name = "academic page at Unibg", url = "#"},
