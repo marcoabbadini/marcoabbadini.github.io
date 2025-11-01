@@ -8,8 +8,6 @@ direction: rtl;
 }
 </style>
 
-# About
-
 I am a Postdoctoral Researcher and Adjunct Professor in Computer Science and Engineering at Università degli Studi di Bergamo, Italy, under the supervision of [prof. Stefano Paraboschi](https://cs.unibg.it/parabosc/). My research focuses on Computer Security & Privacy with a focus on Access Control, Data Protection, Cloud Security and Micro-architectural / Hardware Security. 
 I am also interested in Operating Systems, Algorithms, Programming and CTF competitions.
 

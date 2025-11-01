@@ -1,16 +1,13 @@
 base_url = "https://marcoabbadini.github.io"
 compile_sass = false
 minify_html = true
-generate_feed = true
+generate_feeds = true
+generate_sitemap = true
 
 theme = "anemone"
 
-[languages.en]
-weight = 1
+default_language = "en"
 title = "Marco Abbadini"
-languageName = "English"
-languageCode = "en"
-relativeURL = false
 
 [markdown]
 render_emoji = true
@@ -33,31 +30,15 @@ image = ""
 list_pages = false
 twitter_card = false
 favicon = "favicon.png"
+enable_search = true
 
-footer_nav = [
-  { name = "academic page at Unibg", url = "#"},
+header_nav = [
+	{ name_en = "/home", url = "/" },
+	{ name_en= "/about", url = "/about" },
+	{ name_en  = "/teaching", url = "/teaching" },
+	{ name_en = "/publications", url = "/publications" },
+	{ name_en = "/posts", url = "/posts" },
+	{ name_en = "/contacts", url = "/contacts" },
+	{ name_en = "/UNIBG", url = "https://cs.unibg.it/abbadini"},
+	{ name_en = "/IMDEA", url = "https://software.imdea.org/people/marco.abbadini/"}
 ]
-
-[[extra.header_nav]]
-en = { name = "/home", url = "/" }
-
-[[extra.header_nav]]
-en = { name = "/about", url = "/about" }
-
-[[extra.header_nav]]
-en = { name = "/teaching", url = "/teaching" }
-
-[[extra.header_nav]]
-en = {name = "/publications", url = "/publications" }
-
-[[extra.header_nav]]
-en = { name = "/posts", url = "/posts" }
-
-[[extra.header_nav]]
-en = { name = "/contacts", url = "/contacts" }
-
-[[extra.header_nav]]
-en = {name = "/UNIBG", url = "https://cs.unibg.it/abbadini"}
-
-[[extra.header_nav]]
-en = {name = "/IMDEA", url = "https://software.imdea.org/people/marco.abbadini/"}

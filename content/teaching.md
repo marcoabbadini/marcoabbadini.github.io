@@ -1,7 +1,6 @@
 +++
-title = "Teaching"
+title = "Teaching courses"
 +++
-# Teaching courses
 
 - **IT Tools for Digital Transformation**, *Adjunct Professor*, Management Engineering, a.y. 2025/26
 - **Data bases in medicine**, Health Technologies Engineering, a.y. 2024/25
