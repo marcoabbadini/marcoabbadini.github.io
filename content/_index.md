@@ -2,7 +2,7 @@
 +++
 # Marco Abbadini, PhD
 
-<img alt="Marco Abbadini photo" src="marco.abbadini-squared.jpg" style="margin-left:auto; margin-right:auto; display:block; width:300px;">
+<img alt="Marco Abbadini photo" src="marco.abbadini-squared.webp" style="margin-left:auto; margin-right:auto; display:block; width:300px;">
 
 I am a Postdoctoral Researcher and Adjunct Professor in Computer Science and Engineering at Università degli Studi di Bergamo. My research work focuses on Computer Security and Privacy but I am interested in many other fields of Computer Science too. 
 
