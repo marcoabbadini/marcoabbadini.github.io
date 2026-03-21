@@ -9,6 +9,7 @@ title = "Research and Publications"
 
 # Service
 
+* PETS '26 Artifact Evaluator
 * ESORICS '25, Subreviewer
 * VLDB '24, Artifact Reproducibility Reviewer
 * DBSec '24, Subreviewer
