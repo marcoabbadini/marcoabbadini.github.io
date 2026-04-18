@@ -37,10 +37,6 @@ See my academic page at Università degli Studi di Bergamo here: [/UNIBG](https:
     - Computer Science and Engineering, *Computer Security and Privacy*
     - Thesis: "Sandboxing and Data Protection in Cloud Computing Environments"
     - Grade: Excellent
-- **NECS - PhD Winter School 2024**, *Computer Security and Privacy Winter School*, [Jan 2024]
-- **IRDTA DeepLearn Summer School 2022**, IRDTA Brussels/London, Universitat Rovira i Virgili, ULPGC Universidad de Las Palmas de Gran Canaria, [Jul 2022]
-    - *Deep Learning Summer School*
-    - State-of-the-art and advances in Deep Learning
 - **Master's Degree**, Università degli Studi di Bergamo, Italy, [2019 - 2021]
     - *Computer Science and Engineering*
     - Thesis: "Parallel Application of Differential Privacy: Theoretical Analysis, Implementation, and Experimental Results"
@@ -53,6 +49,13 @@ See my academic page at Università degli Studi di Bergamo here: [/UNIBG](https:
 - **High School Diploma**, I.S.I.S.S. "Valle Seriana", Gazzaniga, Bergamo, Italy
     - *Scientific High School*
     - Grade: 98/100   
+
+# Summer Schools
+
+- **NECS - PhD Winter School 2024**, *Computer Security and Privacy Winter School*, [Jan 2024]
+- **IRDTA DeepLearn Summer School 2022**, IRDTA Brussels/London, Universitat Rovira i Virgili, ULPGC Universidad de Las Palmas de Gran Canaria, [Jul 2022]
+    - *Deep Learning Summer School*
+    - State-of-the-art and advances in Deep Learning
 
 # Work Experience
 - **Adjunct Professor**, *"IT tools for digital transformation"*, Università degli Studi di Bergamo
