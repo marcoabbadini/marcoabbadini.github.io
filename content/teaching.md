@@ -2,6 +2,8 @@
 title = "Teaching courses"
 +++
 
+## University of Bergamo, Italy
+
 - **Operating Systems**, Computer Engineering, a.y. 2025/26
 - **IT Tools for Digital Transformation**, *Adjunct Professor*, Management Engineering, a.y. 2025/26
 - **Data bases in medicine**, Health Technologies Engineering, a.y. 2024/25
@@ -24,4 +26,4 @@ title = "Teaching courses"
 
 <hr>
 
-For more info, you can see my [/UNIBG](https://cs.unibg.it/abbadini/) page
+For more info, please visit  my [/UNIBG](https://cs.unibg.it/abbadini/) page
