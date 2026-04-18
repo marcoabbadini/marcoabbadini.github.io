@@ -2,7 +2,7 @@
 title = "Teaching courses"
 +++
 
-## University of Bergamo, Italy
+### University of Bergamo, Italy
 
 - **Operating Systems**, Computer Engineering, a.y. 2025/26
 - **IT Tools for Digital Transformation**, *Adjunct Professor*, Management Engineering, a.y. 2025/26
