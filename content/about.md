@@ -78,7 +78,7 @@ Best new graduate of the year 2022, Università degli Studi di Bergamo, Departme
 # Skills
 
 - **Programming:** C and C++, Python, Java, Racket, Bash, Rust
-- **Tools and technologies:** Git, Svn, Apache Spark, Docker, LaTeX, Linux, Make, Bazel, Kubernetes, Open Policy Agent, Differential Privacy, DBMS (MySQL, Postgres, SQLite, Redis, Memcached)
+- **Tools and technologies:** Git, Svn, Apache Spark, Docker, LaTeX, Linux (Ubuntu/Debian, Fedora, OpenSUSE), Make, Bazel, Kubernetes, Open Policy Agent, Differential Privacy, DBMS (MySQL, Postgres, SQLite, Redis, Memcached)
 - **Languages:** 
     - Italian (Native speaker)
     - English (Advanced)
