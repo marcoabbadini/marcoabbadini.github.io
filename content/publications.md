@@ -27,6 +27,7 @@ title = "Research and Publications"
 
 # List of publications 
 
+* [Blackbird: A Scalable and Resource-Efficient Framework for Distributed Network Monitoring](https://cs.unibg.it/seclab-papers/2026/ICDCS/blackbird.pdf), *Poster*, in Proc. of the IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2026), Seoul, South Korea, June 22-25, 2026, [[BibTex]](https://cs.unibg.it/seclab-papers/2026/ICDCS/blackbird.bib)
 * [Supporting Data Owner Control in IPFS Networks](https://cs.unibg.it/seclab-papers/2024/ICC/ipfs.pdf), *Conference Paper*, in Proc. of the IEEE International Conference on Communications (IEEE ICC 2024), Denver, Colorado, June 9-13, 2024, [[BibTex]](https://cs.unibg.it/seclab-papers/2024/ICC/ipfs.bib)
 * [Lightweight Cloud Application Sandboxing](https://cs.unibg.it/seclab-papers/2023/CLOUDCOM/dmng.pdf). *Conference Paper*, in Proc. of the 14th IEEE International Conference on Cloud Computing Technology and Science (IEEE CLOUDCOM 2023), Naples, Italy, December 4-6, 2023, [[BibTex]](https://cs.unibg.it/seclab-papers/2023/CLOUDCOM/dmng.bib)
 * [NatiSand: Native Code Sandboxing for JavaScript Runtimes](https://cs.unibg.it/seclab-papers/2023/RAID/natisand.pdf), *Conference Paper*, in Proc. of the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Hong Kong, China, October 16-18, 2023, [[BibTex]](https://cs.unibg.it/seclab-papers/2023/RAID/natisand.bib)
