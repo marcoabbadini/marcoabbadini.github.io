@@ -38,7 +38,7 @@ header_nav = [
 	{ name_en = "/home", url = "/" },
 	{ name_en= "/about", url = "/about" },
 	{ name_en  = "/teaching", url = "/teaching" },
-	{ name_en = "/publications", url = "/publications" },
+	{ name_en = "/research", url = "/research" },
 	{ name_en = "/posts", url = "/posts" },
 	{ name_en = "/contacts", url = "/contacts" },
 	{ name_en = "/UNIBG", url = "https://cs.unibg.it/abbadini"},
