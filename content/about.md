@@ -52,6 +52,7 @@ See my academic page at Università degli Studi di Bergamo here: [/UNIBG](https:
 
 # Summer Schools
 
+- **CySeP Summer School 2026**, *Computer Security and Privacy Summer School*, [Jun 2026]
 - **NECS - PhD Winter School 2024**, *Computer Security and Privacy Winter School*, [Jan 2024]
 - **IRDTA DeepLearn Summer School 2022**, IRDTA Brussels/London, Universitat Rovira i Virgili, ULPGC Universidad de Las Palmas de Gran Canaria, [Jul 2022]
     - *Deep Learning Summer School*
