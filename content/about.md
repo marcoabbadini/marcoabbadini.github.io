@@ -26,7 +26,15 @@ See my academic page at Università degli Studi di Bergamo here: [/UNIBG](https:
 - **Linkedin**: [Marco Abbadini](https://www.linkedin.com/in/marco-abbadini-998524245)
 - **X (Twitter)**: [marcoabbadini](https://twitter.com/marcoabbadini)
 - **Mastodon**: [@marcoabbadini@infosec.exchange](https://infosec.exchange/@marcoabbadini)
-<!-- - **Skype** : live:.cid.2fc1455443dfa9c3 <span style="color:red;">[DEPRECATED]</span> -->
+
+# Work Experience
+- **Adjunct Professor**, *"IT tools for digital transformation"*, Università degli Studi di Bergamo
+- **Postdoctoral Researcher**, *Computer Security*, Università degli Studi di Bergamo
+- **Teaching Assistant** for Bachelor's and Master's courses at Univeristà degli Studi di Bergamo
+	- Data bases I and II, Data bases in medicine
+	- Operating Systems
+	- Computer Organization and Design
+	- Programming
 
 # Education
 
@@ -58,14 +66,6 @@ See my academic page at Università degli Studi di Bergamo here: [/UNIBG](https:
     - *Deep Learning Summer School*
     - State-of-the-art and advances in Deep Learning
 
-# Work Experience
-- **Adjunct Professor**, *"IT tools for digital transformation"*, Università degli Studi di Bergamo
-- **Postdoctoral Researcher**, *Computer Security*, Università degli Studi di Bergamo
-- **Teaching Assistant** for Bachelor's and Master's courses at Univeristà degli Studi di Bergamo
-	- Data bases I and II, Data bases in medicine
-	- Operating Systems
-	- Computer Organization and Design
-	- Programming
 
 # Projects
 European Project participation:
