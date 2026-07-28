@@ -18,7 +18,7 @@ From October 2024 to March 2025 I've been a Visiting PhD Student at [IMDEA Softw
 See my academic page at Università degli Studi di Bergamo here: [/UNIBG](https://cs.unibg.it/abbadini) and my page at IMDEA here: [/IMDEA](https://software.imdea.org/people/marco.abbadini/).
 
 
-# Contacts
+## Contacts
 
 - **Email** (preferred): <span class="baddirection">moc {tod} liamg [ta] 1inidabba.ocram</span> *(beware when copying it, note the '**1**')*
 - **Website**: [personal](https://marcoabbadini.github.io), [academic](https://cs.unibg.it/abbadini)
@@ -27,7 +27,7 @@ See my academic page at Università degli Studi di Bergamo here: [/UNIBG](https:
 - **X (Twitter)**: [marcoabbadini](https://twitter.com/marcoabbadini)
 - **Mastodon**: [@marcoabbadini@infosec.exchange](https://infosec.exchange/@marcoabbadini)
 
-# Work Experience
+## Work Experience
 - **Adjunct Professor**, *"IT tools for digital transformation"*, Università degli Studi di Bergamo
 - **Postdoctoral Researcher**, *Computer Security*, Università degli Studi di Bergamo
 - **Teaching Assistant** for Bachelor's and Master's courses at Univeristà degli Studi di Bergamo
@@ -36,7 +36,7 @@ See my academic page at Università degli Studi di Bergamo here: [/UNIBG](https:
 	- Computer Organization and Design
 	- Programming
 
-# Education
+## Education
 
 - **Visiting PhD Student**, IMDEA Software Institute, Madrid, [Oct 2024 - Mar 2025]
     - *Computer security, Micro-architectural and Hardware Security*
@@ -58,7 +58,7 @@ See my academic page at Università degli Studi di Bergamo here: [/UNIBG](https:
     - *Scientific High School*
     - Grade: 98/100   
 
-# Summer Schools
+## Summer Schools
 
 - **CySeP Summer School 2026**, *Computer Security and Privacy Summer School*, [Jun 2026]
 - **NECS - PhD Winter School 2024**, *Computer Security and Privacy Winter School*, [Jan 2024]
@@ -67,16 +67,16 @@ See my academic page at Università degli Studi di Bergamo here: [/UNIBG](https:
     - State-of-the-art and advances in Deep Learning
 
 
-# Projects
+## Projects
 European Project participation:
 - [GLACIATION](https://glaciation-project.eu/)
 - [MOSAICrOWN](https://mosaicrown.eu/)
 
-# Awards
+## Awards
 **Luberg New Graduate of the year, *Computer Science and Engineering***
 Best new graduate of the year 2022, Università degli Studi di Bergamo, Department of Management, Information and Production Engineering, [link](https://www.luberg.it/eccellenze/proclamazione-neolaureati-dellanno-premio-agli-studi-2/)
 
-# Skills
+## Skills
 
 - **Programming:** C and C++, Python, Java, Racket, Bash, Rust
 - **Tools and technologies:** Git, Svn, Apache Spark, Docker, LaTeX, Linux (Ubuntu/Debian, Fedora, OpenSUSE), Make, Bazel, Kubernetes, Open Policy Agent, Differential Privacy, DBMS (MySQL, Postgres, SQLite, Redis, Memcached)
@@ -86,6 +86,6 @@ Best new graduate of the year 2022, Università degli Studi di Bergamo, Departme
     - Spanish (Basic-Intermediate)
     - Romanian (Basic-Intermediate)
 
-# CV
+## CV
 
 I send an updated CV upon request
