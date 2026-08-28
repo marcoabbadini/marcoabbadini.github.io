@@ -1,5 +1,5 @@
 +++
-title = "Research and Publications"
+title = "Research"
 +++
 
 * **ORCID**: [0000-0001-7115-1867](https://orcid.org/0000-0001-7115-1867)
