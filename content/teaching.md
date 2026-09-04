@@ -4,6 +4,7 @@ title = "Teaching courses"
 
 ### University of Bergamo, Italy
 
+- **IT Tools for Digital Transformation**, *Adjunct Professor*, Management Engineering, a.y. 2026/27
 - **Operating Systems**, Computer Engineering, a.y. 2025/26
 - **IT Tools for Digital Transformation**, *Adjunct Professor*, Management Engineering, a.y. 2025/26
 - **Data bases in medicine**, Health Technologies Engineering, a.y. 2024/25
