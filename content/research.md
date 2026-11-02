@@ -9,7 +9,15 @@ title = "Research"
 
 # Service
 
+<!--
+* IEEE S&P '27, Artifact Evaluator
+* PETS '27, Artifact Evaluator
+* NDSS '27, Artifact Evaluator
+* EuroSys '27, Artifact Evaluator
+* SOSP '26, Artifact Evaluator, *Distinguished Artifact Evaluator Award* ([link](https://sigops.org/s/conferences/sosp/2026/index.html))
+-->
 * PETS '26, Artifact Evaluator
+* IEEE BigData '26, External Reviewer
 * ESORICS '25, Subreviewer
 * VLDB '24, Artifact Reproducibility Reviewer
 * DBSec '24, Subreviewer
@@ -27,6 +35,7 @@ title = "Research"
 
 # List of publications 
 
+* [ Keymix: Protecting Large Resources From Key Exfiltration](https://cs.unibg.it/seclab-papers/2026/NSS/keymix.pdf), In Proc. of the International Conference on Network and System Security (NSS), Hangzhou, China, October 2026, [[BibTex]](https://seclab.unibg.it/publications/keymix/citation.bib)
 * [SysComb: Fine-Grained Transparent System Call Filtering for Attack Surface Reduction](https://arxiv.org/pdf/2608.26871), *In arXiv:2608.26871 [cs.CR]*
 * [Blackbird: A Scalable and Resource-Efficient Framework for Distributed Network Monitoring](https://cs.unibg.it/seclab-papers/2026/ICDCS/blackbird.pdf), in Proc. of the IEEE International Conference on Distributed Computing Systems (IEEE ICDCS 2026), Seoul, South Korea, June 22-25, 2026, [[BibTex]](https://cs.unibg.it/seclab-papers/2026/ICDCS/blackbird.bib), [[Best Poster Award]](https://cs.unibg.it/seclab-papers/2026/ICDCS/best-poster-award-certificate.pdf)
 * [Supporting Data Owner Control in IPFS Networks](https://cs.unibg.it/seclab-papers/2024/ICC/ipfs.pdf), in Proc. of the IEEE International Conference on Communications (IEEE ICC 2024), Denver, Colorado, June 9-13, 2024, [[BibTex]](https://cs.unibg.it/seclab-papers/2024/ICC/ipfs.bib)
