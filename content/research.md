@@ -8,13 +8,12 @@ title = "Research"
 ---
 
 # Service
-
 <!--
 * IEEE S&P '27, Artifact Evaluator
 * PETS '27, Artifact Evaluator
 * NDSS '27, Artifact Evaluator
 * EuroSys '27, Artifact Evaluator
-* SOSP '26, Artifact Evaluator, *Distinguished Artifact Evaluator Award* ([link](https://sigops.org/s/conferences/sosp/2026/index.html))
+* SOSP '26, Artifact Evaluator, *Distinguished Artifact Evaluator Award* ([link](https://sigops.org/s/conferences/sosp/2026/index.html), [link]({{ get_url(path="/data/sosp_26_daea.pdf") }}))
 -->
 * PETS '26, Artifact Evaluator
 * IEEE BigData '26, External Reviewer
