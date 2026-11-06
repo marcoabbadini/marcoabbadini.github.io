@@ -70,7 +70,7 @@ See my academic page at Università degli Studi di Bergamo here: [/UNIBG](https:
 ## Projects
 European Project participation:
 - [GLACIATION](https://glaciation-project.eu/)
-- [MOSAICrOWN](https://www.ercim.eu/science/projects/archive/mosaicrown)
+- [MOSAICrOWN](https://seclab.unibg.it/projects/mosaicrown/)
 
 ## Awards
 **Luberg New Graduate of the year, *Computer Science and Engineering***
