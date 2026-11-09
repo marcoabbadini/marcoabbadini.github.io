@@ -1,5 +1,7 @@
 +++
 title = "About"
+[extra]
+keywords = ["security", "privacy", "cybersecurity", "researcher"]
 +++
 <style>
 span.baddirection{
