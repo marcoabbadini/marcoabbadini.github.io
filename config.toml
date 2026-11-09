@@ -34,12 +34,12 @@ favicon = "favicon.png"
 enable_search = true
 
 header_nav = [
-	{ name_en = "/home", url = "/" },
-	{ name_en= "/about", url = "/about" },
-	{ name_en  = "/teaching", url = "/teaching" },
-	{ name_en = "/research", url = "/research" },
-	{ name_en = "/posts", url = "/posts" },
-	{ name_en = "/contacts", url = "/contacts" },
-	{ name_en = "/UNIBG", url = "https://cs.unibg.it/abbadini"},
-	{ name_en = "/IMDEA", url = "https://software.imdea.org/people/marco.abbadini/"}
+  { path = "@/_index.md",          key = "nav_home",     name = "/home" },
+  { path = "@/about.md",           key = "nav_about",    name = "/about" },
+  { path = "@/teaching.md",        key = "nav_teaching", name = "/teaching" },
+  { path = "@/research.md",        key = "nav_research", name = "/research" },
+  { path = "@/posts/_index.md",    key = "nav_posts",    name = "/posts" },
+  { path = "@/contacts.md",        key = "nav_contacts", name = "/contacts" },
+  { url = "https://cs.unibg.it/abbadini", name = "/UNIBG" },
+  { url = "https://software.imdea.org/people/marco.abbadini/", name = "/IMDEA" }
 ]
