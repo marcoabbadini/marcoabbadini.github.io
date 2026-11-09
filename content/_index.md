@@ -1,4 +1,6 @@
 +++
+[extra]
+keywords = ["security", "privacy", "cybersecurity", "researcher", "publications"]
 +++
 # Marco Abbadini, PhD
 
